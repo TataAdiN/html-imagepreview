@@ -1,2 +1,2 @@
 # html-imagepreview
-contoh image preview html
+contoh image preview html dan javascript jquery
